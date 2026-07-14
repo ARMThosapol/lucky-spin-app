@@ -1,0 +1,6 @@
+{
+  "appId": "com.euaarm.luckyspin",
+  "appName": "EUA ARM Lucky Spin",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
